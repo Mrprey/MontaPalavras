@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monta Palavras</string>
+    <string name="digite_as_letras_dispon_veis_nesta_jogada">Digite as letras disponíveis nesta jogada</string>
+    <string name="ok">OK</string>
+    <string name="WordScore">TextView</string>
+    <string name="sobraram">Sobraram:</string>
+</resources>
